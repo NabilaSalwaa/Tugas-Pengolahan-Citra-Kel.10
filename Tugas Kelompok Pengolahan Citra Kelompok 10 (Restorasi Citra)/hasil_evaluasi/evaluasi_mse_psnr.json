@@ -1,0 +1,898 @@
+[
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_15_max_3x3.png",
+    "filtered_path": "images_filtered/max/gaussian/landscape_gauss_15_max_3x3.png",
+    "mse": 1605.010478869578,
+    "psnr": 16.076024886750705
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_15_max_5x5.png",
+    "filtered_path": "images_filtered/max/gaussian/landscape_gauss_15_max_5x5.png",
+    "mse": 2832.7426024955435,
+    "psnr": 13.608732467761445
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_30_max_3x3.png",
+    "filtered_path": "images_filtered/max/gaussian/landscape_gauss_30_max_3x3.png",
+    "mse": 3122.802492758467,
+    "psnr": 13.185358435021417
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_30_max_5x5.png",
+    "filtered_path": "images_filtered/max/gaussian/landscape_gauss_30_max_5x5.png",
+    "mse": 5191.356636679293,
+    "psnr": 10.977994957298488
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_15_max_3x3.png",
+    "filtered_path": "images_filtered/max/gaussian/landscape_grayscale_gauss_15_max_3x3.png",
+    "mse": 1623.589214293672,
+    "psnr": 16.026042032856708
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_15_max_5x5.png",
+    "filtered_path": "images_filtered/max/gaussian/landscape_grayscale_gauss_15_max_5x5.png",
+    "mse": 2859.406525735294,
+    "psnr": 13.568044568800916
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_30_max_3x3.png",
+    "filtered_path": "images_filtered/max/gaussian/landscape_grayscale_gauss_30_max_3x3.png",
+    "mse": 3186.89216521836,
+    "psnr": 13.09712992355879
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_30_max_5x5.png",
+    "filtered_path": "images_filtered/max/gaussian/landscape_grayscale_gauss_30_max_5x5.png",
+    "mse": 5278.872554590018,
+    "psnr": 10.905391837137836
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_15_max_3x3.png",
+    "filtered_path": "images_filtered/max/gaussian/potrait_gauss_15_max_3x3.png",
+    "mse": 737.4263945473251,
+    "psnr": 19.453616827088695
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_15_max_5x5.png",
+    "filtered_path": "images_filtered/max/gaussian/potrait_gauss_15_max_5x5.png",
+    "mse": 1325.562757201646,
+    "psnr": 16.906800671532423
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_30_max_3x3.png",
+    "filtered_path": "images_filtered/max/gaussian/potrait_gauss_30_max_3x3.png",
+    "mse": 2412.334242798354,
+    "psnr": 14.306428792297663
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_30_max_5x5.png",
+    "filtered_path": "images_filtered/max/gaussian/potrait_gauss_30_max_5x5.png",
+    "mse": 4011.7453513374485,
+    "psnr": 12.097470028253296
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_15_max_3x3.png",
+    "filtered_path": "images_filtered/max/gaussian/potrait_grayscale_gauss_15_max_3x3.png",
+    "mse": 731.8519367283951,
+    "psnr": 19.48657134407974
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_15_max_5x5.png",
+    "filtered_path": "images_filtered/max/gaussian/potrait_grayscale_gauss_15_max_5x5.png",
+    "mse": 1306.3010200617284,
+    "psnr": 16.970370948875654
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_30_max_3x3.png",
+    "filtered_path": "images_filtered/max/gaussian/potrait_grayscale_gauss_30_max_3x3.png",
+    "mse": 2404.8084845679014,
+    "psnr": 14.319998653585602
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_30_max_5x5.png",
+    "filtered_path": "images_filtered/max/gaussian/potrait_grayscale_gauss_30_max_5x5.png",
+    "mse": 3989.796898148148,
+    "psnr": 12.121295725141351
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_15_max_3x3.png",
+    "filtered_path": "images_filtered/max/salt_pepper/landscape_grayscale_sp_15_max_3x3.png",
+    "mse": 8508.608787321748,
+    "psnr": 8.832218049409732
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_15_max_5x5.png",
+    "filtered_path": "images_filtered/max/salt_pepper/landscape_grayscale_sp_15_max_5x5.png",
+    "mse": 14278.329292000892,
+    "psnr": 6.584029672732212
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_5_max_3x3.png",
+    "filtered_path": "images_filtered/max/salt_pepper/landscape_grayscale_sp_5_max_3x3.png",
+    "mse": 4123.698977829768,
+    "psnr": 11.977934057692705
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_5_max_5x5.png",
+    "filtered_path": "images_filtered/max/salt_pepper/landscape_grayscale_sp_5_max_5x5.png",
+    "mse": 8636.12398479278,
+    "psnr": 8.76761492198211
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_15_max_3x3.png",
+    "filtered_path": "images_filtered/max/salt_pepper/landscape_sp_15_max_3x3.png",
+    "mse": 9616.446412655972,
+    "psnr": 8.300657450140434
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_15_max_5x5.png",
+    "filtered_path": "images_filtered/max/salt_pepper/landscape_sp_15_max_5x5.png",
+    "mse": 16223.112384413993,
+    "psnr": 6.029461841303753
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_5_max_3x3.png",
+    "filtered_path": "images_filtered/max/salt_pepper/landscape_sp_5_max_3x3.png",
+    "mse": 4703.667400568182,
+    "psnr": 11.406437559641018
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_5_max_5x5.png",
+    "filtered_path": "images_filtered/max/salt_pepper/landscape_sp_5_max_5x5.png",
+    "mse": 9940.35983827243,
+    "psnr": 8.156782548461011
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_15_max_3x3.png",
+    "filtered_path": "images_filtered/max/salt_pepper/potrait_grayscale_sp_15_max_3x3.png",
+    "mse": 22332.24849074074,
+    "psnr": 4.641479092715934
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_15_max_5x5.png",
+    "filtered_path": "images_filtered/max/salt_pepper/potrait_grayscale_sp_15_max_5x5.png",
+    "mse": 38928.7589691358,
+    "psnr": 2.2280980203665326
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_5_max_3x3.png",
+    "filtered_path": "images_filtered/max/salt_pepper/potrait_grayscale_sp_5_max_3x3.png",
+    "mse": 9538.68374537037,
+    "psnr": 8.33591910855787
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_5_max_5x5.png",
+    "filtered_path": "images_filtered/max/salt_pepper/potrait_grayscale_sp_5_max_5x5.png",
+    "mse": 21939.458882716048,
+    "psnr": 4.718544489851225
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_15_max_3x3.png",
+    "filtered_path": "images_filtered/max/salt_pepper/potrait_sp_15_max_3x3.png",
+    "mse": 22366.534824588478,
+    "psnr": 4.634816554091529
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_15_max_5x5.png",
+    "filtered_path": "images_filtered/max/salt_pepper/potrait_sp_15_max_5x5.png",
+    "mse": 39030.64495781893,
+    "psnr": 2.2167463307352935
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_5_max_3x3.png",
+    "filtered_path": "images_filtered/max/salt_pepper/potrait_sp_5_max_3x3.png",
+    "mse": 9420.485291152263,
+    "psnr": 8.390070850558315
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_5_max_5x5.png",
+    "filtered_path": "images_filtered/max/salt_pepper/potrait_sp_5_max_5x5.png",
+    "mse": 21631.956635288065,
+    "psnr": 4.779845572181463
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_15_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/gaussian/landscape_gauss_15_mean_3x3.png",
+    "mse": 266.22329499034464,
+    "psnr": 23.878343065619838
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_15_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/gaussian/landscape_gauss_15_mean_5x5.png",
+    "mse": 354.58945567810457,
+    "psnr": 22.633545438977126
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_30_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/gaussian/landscape_gauss_30_mean_3x3.png",
+    "mse": 341.32678903000595,
+    "psnr": 22.799099856530418
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_30_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/gaussian/landscape_gauss_30_mean_5x5.png",
+    "mse": 385.53796280822934,
+    "psnr": 22.27013212653725
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_15_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/gaussian/landscape_grayscale_gauss_15_mean_3x3.png",
+    "mse": 265.6899969362745,
+    "psnr": 23.887051570679326
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_15_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/gaussian/landscape_grayscale_gauss_15_mean_5x5.png",
+    "mse": 353.32469641265595,
+    "psnr": 22.64906366396867
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_30_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/gaussian/landscape_grayscale_gauss_30_mean_3x3.png",
+    "mse": 338.1077846479501,
+    "psnr": 22.840251907211076
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_30_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/gaussian/landscape_grayscale_gauss_30_mean_5x5.png",
+    "mse": 380.9269635695187,
+    "psnr": 22.322386459780347
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_15_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/gaussian/potrait_gauss_15_mean_3x3.png",
+    "mse": 58.44266718106996,
+    "psnr": 30.463503330103645
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_15_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/gaussian/potrait_gauss_15_mean_5x5.png",
+    "mse": 92.09083127572016,
+    "psnr": 28.48863967637164
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_30_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/gaussian/potrait_gauss_30_mean_3x3.png",
+    "mse": 166.3679398148148,
+    "psnr": 25.920107222245576
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_30_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/gaussian/potrait_gauss_30_mean_5x5.png",
+    "mse": 173.5240468106996,
+    "psnr": 25.73720693420889
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_15_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/gaussian/potrait_grayscale_gauss_15_mean_3x3.png",
+    "mse": 58.193234567901236,
+    "psnr": 30.482078635138237
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_15_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/gaussian/potrait_grayscale_gauss_15_mean_5x5.png",
+    "mse": 91.08420061728395,
+    "psnr": 28.53637309688532
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_30_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/gaussian/potrait_grayscale_gauss_30_mean_3x3.png",
+    "mse": 166.06806790123457,
+    "psnr": 25.927942279197627
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_30_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/gaussian/potrait_grayscale_gauss_30_mean_5x5.png",
+    "mse": 172.41725462962964,
+    "psnr": 25.764996352524008
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_15_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/landscape_grayscale_sp_15_mean_3x3.png",
+    "mse": 596.1683851381462,
+    "psnr": 20.377114192352007
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_15_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/landscape_grayscale_sp_15_mean_5x5.png",
+    "mse": 507.710007241533,
+    "psnr": 21.074646371975092
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_5_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/landscape_grayscale_sp_5_mean_3x3.png",
+    "mse": 351.1574852384135,
+    "psnr": 22.67578430638482
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_5_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/landscape_grayscale_sp_5_mean_5x5.png",
+    "mse": 389.70641014928697,
+    "psnr": 22.223428114530293
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_15_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/landscape_sp_15_mean_3x3.png",
+    "mse": 636.1149208073381,
+    "psnr": 20.09544778295161
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_15_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/landscape_sp_15_mean_5x5.png",
+    "mse": 537.5751624702912,
+    "psnr": 20.82641166021702
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_5_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/landscape_sp_5_mean_3x3.png",
+    "mse": 360.7994373885918,
+    "psnr": 22.55814509213141
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_5_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/landscape_sp_5_mean_5x5.png",
+    "mse": 393.9486723856209,
+    "psnr": 22.176407196306585
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_15_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/potrait_grayscale_sp_15_mean_3x3.png",
+    "mse": 657.9861342592593,
+    "psnr": 19.948636190444404
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_15_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/potrait_grayscale_sp_15_mean_5x5.png",
+    "mse": 438.1468287037037,
+    "psnr": 21.714606882404052
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_5_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/potrait_grayscale_sp_5_mean_3x3.png",
+    "mse": 204.4369274691358,
+    "psnr": 25.025210156499973
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_5_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/potrait_grayscale_sp_5_mean_5x5.png",
+    "mse": 150.92125617283952,
+    "psnr": 26.343299495320206
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_15_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/potrait_sp_15_mean_3x3.png",
+    "mse": 658.6546980452675,
+    "psnr": 19.944225669657037
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_15_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/potrait_sp_15_mean_5x5.png",
+    "mse": 440.34204372427985,
+    "psnr": 21.692902071237448
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_5_mean_3x3.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/potrait_sp_5_mean_3x3.png",
+    "mse": 202.4098148148148,
+    "psnr": 25.06848793329749
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_5_mean_5x5.png",
+    "filtered_path": "images_filtered/mean/salt_pepper/potrait_sp_5_mean_5x5.png",
+    "mse": 150.63982716049384,
+    "psnr": 26.35140552155152
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_15_median_3x3.png",
+    "filtered_path": "images_filtered/median/gaussian/landscape_gauss_15_median_3x3.png",
+    "mse": 283.62061747994653,
+    "psnr": 23.603425626632596
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_15_median_5x5.png",
+    "filtered_path": "images_filtered/median/gaussian/landscape_gauss_15_median_5x5.png",
+    "mse": 356.3316390002971,
+    "psnr": 22.612259754150088
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_30_median_3x3.png",
+    "filtered_path": "images_filtered/median/gaussian/landscape_gauss_30_median_3x3.png",
+    "mse": 399.3388777480689,
+    "psnr": 22.117387677546244
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_30_median_5x5.png",
+    "filtered_path": "images_filtered/median/gaussian/landscape_gauss_30_median_5x5.png",
+    "mse": 401.7936469474153,
+    "psnr": 22.09077295348397
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_15_median_3x3.png",
+    "filtered_path": "images_filtered/median/gaussian/landscape_grayscale_gauss_15_median_3x3.png",
+    "mse": 284.7219961564171,
+    "psnr": 23.58659341067829
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_15_median_5x5.png",
+    "filtered_path": "images_filtered/median/gaussian/landscape_grayscale_gauss_15_median_5x5.png",
+    "mse": 356.26949225713014,
+    "psnr": 22.613017260320376
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_30_median_3x3.png",
+    "filtered_path": "images_filtered/median/gaussian/landscape_grayscale_gauss_30_median_3x3.png",
+    "mse": 402.0534759358289,
+    "psnr": 22.087965397255328
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_30_median_5x5.png",
+    "filtered_path": "images_filtered/median/gaussian/landscape_grayscale_gauss_30_median_5x5.png",
+    "mse": 402.99007770721926,
+    "psnr": 22.077860076549698
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_15_median_3x3.png",
+    "filtered_path": "images_filtered/median/gaussian/potrait_gauss_15_median_3x3.png",
+    "mse": 46.47297016460905,
+    "psnr": 31.458799310213095
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_15_median_5x5.png",
+    "filtered_path": "images_filtered/median/gaussian/potrait_gauss_15_median_5x5.png",
+    "mse": 60.499126543209876,
+    "psnr": 30.31331256301432
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_30_median_3x3.png",
+    "filtered_path": "images_filtered/median/gaussian/potrait_gauss_30_median_3x3.png",
+    "mse": 122.83405761316872,
+    "psnr": 27.237615626070873
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_30_median_5x5.png",
+    "filtered_path": "images_filtered/median/gaussian/potrait_gauss_30_median_5x5.png",
+    "mse": 92.7201651234568,
+    "psnr": 28.4590616448547
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_15_median_3x3.png",
+    "filtered_path": "images_filtered/median/gaussian/potrait_grayscale_gauss_15_median_3x3.png",
+    "mse": 46.54384722222222,
+    "psnr": 31.452180825118226
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_15_median_5x5.png",
+    "filtered_path": "images_filtered/median/gaussian/potrait_grayscale_gauss_15_median_5x5.png",
+    "mse": 59.83065277777778,
+    "psnr": 30.361566196631653
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_30_median_3x3.png",
+    "filtered_path": "images_filtered/median/gaussian/potrait_grayscale_gauss_30_median_3x3.png",
+    "mse": 122.0347824074074,
+    "psnr": 27.26596729745065
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_30_median_5x5.png",
+    "filtered_path": "images_filtered/median/gaussian/potrait_grayscale_gauss_30_median_5x5.png",
+    "mse": 92.09256944444445,
+    "psnr": 28.48855770621769
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_15_median_3x3.png",
+    "filtered_path": "images_filtered/median/salt_pepper/landscape_grayscale_sp_15_median_3x3.png",
+    "mse": 283.04518020276294,
+    "psnr": 23.612245969102048
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_15_median_5x5.png",
+    "filtered_path": "images_filtered/median/salt_pepper/landscape_grayscale_sp_15_median_5x5.png",
+    "mse": 352.95644078654186,
+    "psnr": 22.653592495121615
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_5_median_3x3.png",
+    "filtered_path": "images_filtered/median/salt_pepper/landscape_grayscale_sp_5_median_3x3.png",
+    "mse": 250.54640290775401,
+    "psnr": 24.14192188906268
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_5_median_5x5.png",
+    "filtered_path": "images_filtered/median/salt_pepper/landscape_grayscale_sp_5_median_5x5.png",
+    "mse": 343.4635973707665,
+    "psnr": 22.771996465429986
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_15_median_3x3.png",
+    "filtered_path": "images_filtered/median/salt_pepper/landscape_sp_15_median_3x3.png",
+    "mse": 284.71716939616755,
+    "psnr": 23.58666703523623
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_15_median_5x5.png",
+    "filtered_path": "images_filtered/median/salt_pepper/landscape_sp_15_median_5x5.png",
+    "mse": 353.4647601938503,
+    "psnr": 22.647342389619855
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_5_median_3x3.png",
+    "filtered_path": "images_filtered/median/salt_pepper/landscape_sp_5_median_3x3.png",
+    "mse": 250.75609449272133,
+    "psnr": 24.138288637521484
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_5_median_5x5.png",
+    "filtered_path": "images_filtered/median/salt_pepper/landscape_sp_5_median_5x5.png",
+    "mse": 343.4676391674094,
+    "psnr": 22.771945359005194
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_15_median_3x3.png",
+    "filtered_path": "images_filtered/median/salt_pepper/potrait_grayscale_sp_15_median_3x3.png",
+    "mse": 39.722591049382714,
+    "psnr": 32.14042791695415
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_15_median_5x5.png",
+    "filtered_path": "images_filtered/median/salt_pepper/potrait_grayscale_sp_15_median_5x5.png",
+    "mse": 55.604078703703706,
+    "psnr": 30.679737114883103
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_5_median_3x3.png",
+    "filtered_path": "images_filtered/median/salt_pepper/potrait_grayscale_sp_5_median_3x3.png",
+    "mse": 22.774328703703702,
+    "psnr": 34.55634776301859
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_5_median_5x5.png",
+    "filtered_path": "images_filtered/median/salt_pepper/potrait_grayscale_sp_5_median_5x5.png",
+    "mse": 51.35284567901235,
+    "psnr": 31.025158461683134
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_15_median_3x3.png",
+    "filtered_path": "images_filtered/median/salt_pepper/potrait_sp_15_median_3x3.png",
+    "mse": 42.36407973251029,
+    "psnr": 31.86082584125565
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_15_median_5x5.png",
+    "filtered_path": "images_filtered/median/salt_pepper/potrait_sp_15_median_5x5.png",
+    "mse": 57.5352700617284,
+    "psnr": 30.531462049216227
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_5_median_3x3.png",
+    "filtered_path": "images_filtered/median/salt_pepper/potrait_sp_5_median_3x3.png",
+    "mse": 23.0720524691358,
+    "psnr": 34.499941301799
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_5_median_5x5.png",
+    "filtered_path": "images_filtered/median/salt_pepper/potrait_sp_5_median_5x5.png",
+    "mse": 52.09181430041152,
+    "psnr": 30.96310877174212
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_15_min_3x3.png",
+    "filtered_path": "images_filtered/min/gaussian/landscape_gauss_15_min_3x3.png",
+    "mse": 1673.2151018456625,
+    "psnr": 15.895285851537718
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_15_min_5x5.png",
+    "filtered_path": "images_filtered/min/gaussian/landscape_gauss_15_min_5x5.png",
+    "mse": 2903.529170380273,
+    "psnr": 13.501541673259998
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_30_min_3x3.png",
+    "filtered_path": "images_filtered/min/gaussian/landscape_gauss_30_min_3x3.png",
+    "mse": 3221.3403200200537,
+    "psnr": 13.05043752378749
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_gauss_30_min_5x5.png",
+    "filtered_path": "images_filtered/min/gaussian/landscape_gauss_30_min_5x5.png",
+    "mse": 5266.755752376708,
+    "psnr": 10.915371826005408
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_15_min_3x3.png",
+    "filtered_path": "images_filtered/min/gaussian/landscape_grayscale_gauss_15_min_3x3.png",
+    "mse": 1688.1086174242423,
+    "psnr": 15.856799740105194
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_15_min_5x5.png",
+    "filtered_path": "images_filtered/min/gaussian/landscape_grayscale_gauss_15_min_5x5.png",
+    "mse": 2934.5169006238857,
+    "psnr": 13.455437457995213
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_30_min_3x3.png",
+    "filtered_path": "images_filtered/min/gaussian/landscape_grayscale_gauss_30_min_3x3.png",
+    "mse": 3314.459695298574,
+    "psnr": 12.926676186173484
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_gauss_30_min_5x5.png",
+    "filtered_path": "images_filtered/min/gaussian/landscape_grayscale_gauss_30_min_5x5.png",
+    "mse": 5472.207352941176,
+    "psnr": 10.74917815552779
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_15_min_3x3.png",
+    "filtered_path": "images_filtered/min/gaussian/potrait_gauss_15_min_3x3.png",
+    "mse": 437.2323667695473,
+    "psnr": 21.723680571119417
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_15_min_5x5.png",
+    "filtered_path": "images_filtered/min/gaussian/potrait_gauss_15_min_5x5.png",
+    "mse": 968.1329783950617,
+    "psnr": 18.27145346724038
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_30_min_3x3.png",
+    "filtered_path": "images_filtered/min/gaussian/potrait_gauss_30_min_3x3.png",
+    "mse": 1007.8201265432099,
+    "psnr": 18.096973337390352
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_gauss_30_min_5x5.png",
+    "filtered_path": "images_filtered/min/gaussian/potrait_gauss_30_min_5x5.png",
+    "mse": 1862.5231661522635,
+    "psnr": 15.429786776384386
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_15_min_3x3.png",
+    "filtered_path": "images_filtered/min/gaussian/potrait_grayscale_gauss_15_min_3x3.png",
+    "mse": 432.4331728395062,
+    "psnr": 21.771613586843586
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_15_min_5x5.png",
+    "filtered_path": "images_filtered/min/gaussian/potrait_grayscale_gauss_15_min_5x5.png",
+    "mse": 954.0183904320987,
+    "psnr": 18.33523614270525
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_30_min_3x3.png",
+    "filtered_path": "images_filtered/min/gaussian/potrait_grayscale_gauss_30_min_3x3.png",
+    "mse": 1013.6494953703703,
+    "psnr": 18.071925523612894
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_gauss_30_min_5x5.png",
+    "filtered_path": "images_filtered/min/gaussian/potrait_grayscale_gauss_30_min_5x5.png",
+    "mse": 1871.4574027777778,
+    "psnr": 15.409004145091581
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_15_min_3x3.png",
+    "filtered_path": "images_filtered/min/salt_pepper/landscape_grayscale_sp_15_min_3x3.png",
+    "mse": 11018.020202484402,
+    "psnr": 7.709767965137216
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_15_min_5x5.png",
+    "filtered_path": "images_filtered/min/salt_pepper/landscape_grayscale_sp_15_min_5x5.png",
+    "mse": 18204.63485544786,
+    "psnr": 5.528983884935515
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_5_min_3x3.png",
+    "filtered_path": "images_filtered/min/salt_pepper/landscape_grayscale_sp_5_min_3x3.png",
+    "mse": 5114.727927250446,
+    "psnr": 11.042578240585279
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_grayscale_sp_5_min_5x5.png",
+    "filtered_path": "images_filtered/min/salt_pepper/landscape_grayscale_sp_5_min_5x5.png",
+    "mse": 10850.94132269385,
+    "psnr": 7.776129458613471
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_15_min_3x3.png",
+    "filtered_path": "images_filtered/min/salt_pepper/landscape_sp_15_min_3x3.png",
+    "mse": 10878.778248477422,
+    "psnr": 7.765002366213892
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_15_min_5x5.png",
+    "filtered_path": "images_filtered/min/salt_pepper/landscape_sp_15_min_5x5.png",
+    "mse": 17835.64552417558,
+    "psnr": 5.617915285215986
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_5_min_3x3.png",
+    "filtered_path": "images_filtered/min/salt_pepper/landscape_sp_5_min_3x3.png",
+    "mse": 4985.230605689246,
+    "psnr": 11.153951082579646
+  },
+  {
+    "original": "landscape.jpeg",
+    "filtered": "landscape_sp_5_min_5x5.png",
+    "filtered_path": "images_filtered/min/salt_pepper/landscape_sp_5_min_5x5.png",
+    "mse": 10560.100834633096,
+    "psnr": 7.89412295727346
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_15_min_3x3.png",
+    "filtered_path": "images_filtered/min/salt_pepper/potrait_grayscale_sp_15_min_3x3.png",
+    "mse": 4582.217833333333,
+    "psnr": 11.520046296666644
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_15_min_5x5.png",
+    "filtered_path": "images_filtered/min/salt_pepper/potrait_grayscale_sp_15_min_5x5.png",
+    "mse": 7656.2629830246915,
+    "psnr": 9.290635183725147
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_5_min_3x3.png",
+    "filtered_path": "images_filtered/min/salt_pepper/potrait_grayscale_sp_5_min_3x3.png",
+    "mse": 1996.9378456790123,
+    "psnr": 15.12715813122249
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_grayscale_sp_5_min_5x5.png",
+    "filtered_path": "images_filtered/min/salt_pepper/potrait_grayscale_sp_5_min_5x5.png",
+    "mse": 4478.48812962963,
+    "psnr": 11.619489334267696
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_15_min_3x3.png",
+    "filtered_path": "images_filtered/min/salt_pepper/potrait_sp_15_min_3x3.png",
+    "mse": 4513.086598765432,
+    "psnr": 11.586066938655723
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_15_min_5x5.png",
+    "filtered_path": "images_filtered/min/salt_pepper/potrait_sp_15_min_5x5.png",
+    "mse": 7578.760712962963,
+    "psnr": 9.334821657271588
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_5_min_3x3.png",
+    "filtered_path": "images_filtered/min/salt_pepper/potrait_sp_5_min_3x3.png",
+    "mse": 2006.6840853909464,
+    "psnr": 15.106013544843977
+  },
+  {
+    "original": "potrait.jpeg",
+    "filtered": "potrait_sp_5_min_5x5.png",
+    "filtered_path": "images_filtered/min/salt_pepper/potrait_sp_5_min_5x5.png",
+    "mse": 4496.620798868313,
+    "psnr": 11.601940959156654
+  }
+]
