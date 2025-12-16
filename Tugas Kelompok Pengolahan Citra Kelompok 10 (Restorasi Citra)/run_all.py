@@ -14,7 +14,10 @@ if __name__ == "__main__":
         "1_konversi_grayscale.py",
         "2_tambah_noise.py",
         "3_filter_noise.py",
-        "4_evaluasi_mse.py"
+        "4_evaluasi_mse.py",
+        "5_visualisasi_mse.py",
+        "6_tabel_kernel_size.py",
+        "7_tabel_mse_psnr_gabungan.py"
     ]
     for script in scripts:
         run_script(script)
